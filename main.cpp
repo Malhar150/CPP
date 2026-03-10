@@ -153,5 +153,27 @@
 //     return 0;
 // }
 
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n,original,reverse=0,remainder;
+//     cout << "ENTER THE NUMBER: ";
+//     cin >> n;
+//     original = n;
+//     while (n != 0){
+//         remainder = n % 10;
+//         reverse = reverse * 10 + remainder;
+//         n /= 10;
+//     }
+//     if (original == reverse){
+//         cout << original <<"THE NUMBER IS A PALINDROME";
+//     }
+//     else{
+//         cout << original <<"THE NUMBER IS NOT A PALINDROME";
+//     }
+//     return 0;
+// }
+
+
 
 
