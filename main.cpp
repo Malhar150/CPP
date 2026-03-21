@@ -174,6 +174,31 @@
 //     return 0;
 // }
 
+// #include <iostream>
+// using namespace std;
+// int main()
+// {
+//     int n, orignal, remainder, result = 0;
+//     cout << "ENTER THE NUMBER: ";
+//     cin >> n;
+//     orignal = n;
+//     while (n != 0)
+//     {
+//         remainder = n % 10;
+//         result += remainder * remainder * remainder;
+//         n /= 10;
+//     }
+//     if (orignal == result)
+//     {
+//         cout << orignal << "THE NUMBER IS AN ARMSTRONG NUMBER";
+//     }
+//     else
+//     {
+//         cout << orignal << "THE NUMBER IS NOT AN ARMSTRONG NUMBER";
+//     }
+//     return 0;
+// }
+
 
 
 
