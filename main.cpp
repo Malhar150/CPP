@@ -199,6 +199,87 @@
 //     return 0;
 // }
 
+// ------Pattern Questions in C++------ 
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n;
+//     cout << "ENTER THE NUMBER: ";
+//     cin >> n;
+//     for(int i=1; i<=n; i++){
+//         for(int j=1; j<=i; j++){
+//             cout << "* ";
+//         }
+//         cout << endl;
+//     }
+//     return 0;
+// }
+
+// --------Horizontal Line Pattern in C++-------
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n;
+//     cout << "Enter n: ";
+//     cin >> n;
+//     for(int i = 1; i <= n; i++){
+//         cout << "* ";
+//     }
+//     return 0;
+// }
+
+//--------Vertical Line Pattern in C++-------
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n;
+//     cout << "Enter n: ";
+//     cin >> n;
+//     for(int i = 1; i <= n; i++){
+//         cout << "*" << endl;
+//     }
+//     return 0;
+// }
+
+//------COUNT UP NO. IN VERTICAL LINE IN C++-------
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n;
+//     cout << "Enter n: ";
+//     cin >> n;
+//     for(int i = 1; i <= n; i++){
+//         cout << i << endl;
+//     }
+//     return 0;
+// }
+
+//------COUNT DOWN NO. IN VERTICAL LINE IN C++-------
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n;
+//     cout << "Enter n: ";
+//     cin >> n;
+//     for(int i = n; i >= 1; i--){
+//         cout << i << endl;
+//     }
+//     return 0;
+// }
+
+//--------Straight No. Line Pattern in C++-------
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     int n;
+//     cout << "Enter n: ";
+//     cin >> n;
+//     for(int i = 1; i <= n; i++){
+//         cout << n << " ";
+//     }
+//     return 0;
+// }
+
 
 
 
